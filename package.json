@@ -11,7 +11,19 @@
   },
   "dependencies": {
     "react": "17.0.2",
-    "react-native": "0.65.1"
+    "react-native": "0.65.1",
+    "react-native-vector-icons": "^8.1.0",
+    "styled-components": "^5.3.1",
+    "react-native-snackbar": "^2.4.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-dotenv": "^3.2.0",
+    "react-native-fast-image": "^8.3.7",
+    "react-native-gesture-handler": "^1.10.3",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/native-stack": "^6.1.0",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "react-native-safe-area-context": "^3.3.0",
+    "react-native-screens": "^3.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -26,7 +38,16 @@
     "metro-react-native-babel-preset": "^0.66.0",
     "react-native-codegen": "^0.0.7",
     "react-test-renderer": "17.0.2",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "@types/react-native-dotenv": "^0.2.0",
+    "@types/node": "^16.7.4",
+    "@types/react": "^17.0.19",
+    "@types/react-native-share-menu": "^5.0.1",
+    "@types/react-native-vector-icons": "^6.4.8",
+    "@types/styled-components-react-native": "^5.1.1",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-typescript-transformer": "^1.2.13"
   },
   "resolutions": {
     "@types/react": "^17"
